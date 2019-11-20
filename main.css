@@ -1,0 +1,23 @@
+body {
+min-height: 50vh;
+justify-content: center;
+display:-webkit-flex;
+align-items: center;
+}
+
+.colorBtn {
+    padding:   0.65rem 2.75rem;
+    border: 10px solid #57e66f;
+    border-radius: 70px solid;
+    color: #fefefe;
+    background: rgba(0,0,0,0.6);
+    font-size: 1.5rem;
+    cursor: pointer ;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.colorBtn:hover{
+    background: rgba(0,0,0,0.8);
+
+}
